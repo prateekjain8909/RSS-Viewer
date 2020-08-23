@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'vzh!gz1kei0c*wu$e@1ci=zqo=a%!4wt$g(mlekvhd=i8ir6x&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 # stop the port- sudo fuser -k 8000/tcp
