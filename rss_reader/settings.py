@@ -27,6 +27,7 @@ SECRET_KEY = 'vzh!gz1kei0c*wu$e@1ci=zqo=a%!4wt$g(mlekvhd=i8ir6x&'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+# stop the port- sudo fuser -k 8000/tcp
 
 
 # Application definition
